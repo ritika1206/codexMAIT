@@ -1,0 +1,41 @@
+body {
+    background-image: url('C:/Users/RAJAT/Desktop/codexMAIT-hackathon/spam.jpg');
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.row{
+    margin-left: 8%;
+}
+
+.col-lg-4 {
+    margin-top: 13%;
+    margin-left: 0%;
+    border: 2% solid white;
+}
+
+/* onNav {
+    font-size: 140%;
+} */
+
+h2 {
+    margin-bottom: 7%;
+    font-size: 270%;
+}
+
+a {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 160%;
+}
+
+h4 {
+    font-size: 180%;
+}
+
+li {
+    font-size: 140%;
+}
